@@ -1,5 +1,5 @@
 <!-- Animated Header -->
-![header](https://capsule-render.vercel.app/api?type=transparent&height=300&text=Aniket%20Dubey&textBg=false&animation=scaleIn&descAlignY=48&reversal=true&fontColor=0000)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=300&text=Aniket%20Dubey&textBg=false&animation=scaleIn&descAlignY=48&reversal=true&fontColor=FCF8F8)
 
 <!-- Typing Animation -->
 <p align="center">
