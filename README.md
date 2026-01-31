@@ -81,7 +81,7 @@ I believe good software is built the **traditional way**:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AniketDubey199&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=AniketDubey199&theme=tokyonight" />
 </p>
 
 ---
