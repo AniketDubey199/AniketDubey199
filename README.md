@@ -1,5 +1,5 @@
 <!-- Animated Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Aniket&fontSize=45&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=300&text=Aniket%20Dubey&textBg=false&animation=scaleIn&descAlignY=48&reversal=true)
 
 <!-- Typing Animation -->
 <p align="center">
@@ -40,6 +40,12 @@ I believe good software is built the **traditional way**:
 
 ---
 
+### 🌐 Backend
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Fiber](https://img.shields.io/badge/Fiber-00ACD7?style=flat&logo=go&logoColor=white)
+
+---
+
 ### 🗄️ Databases & Cache
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-D82C20?style=flat&logo=redis&logoColor=white)
@@ -71,18 +77,18 @@ I believe good software is built the **traditional way**:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AniketDubey199&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AniketDubey199&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/your-link
-- 📧 Email: yourmail@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/aniket-dubey-ad8889/
+- 📧 Email: dubeyaniket7839@gmail.com
 
 ---
 
