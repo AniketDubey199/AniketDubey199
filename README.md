@@ -77,7 +77,7 @@ I believe good software is built the **traditional way**:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AniketDubey199&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=AniketDubey199&layout=compact&langs_count=8" />
 </p>
 
 <p align="center">
