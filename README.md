@@ -1,9 +1,9 @@
 <!-- Animated Header -->
-![header](https://capsule-render.vercel.app/api?type=transparent&height=300&text=Aniket%20Dubey&textBg=false&animation=scaleIn&descAlignY=48&reversal=true)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=300&text=Aniket%20Dubey&textBg=false&animation=scaleIn&descAlignY=48&reversal=true&fontColor=0000)
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Focused+Developer;Systems+%26+Problem+Solving+Enthusiast;Go+%7C+Databases+%7C+Docker+%7C+Linux" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Focused+Developer;Systems+%26+Problem+Solving+Enthusiast;Go+%7C+Fiber+%7C+MongoDb+%7C+Docker+%7C+Linux" />
 </p>
 
 ---
