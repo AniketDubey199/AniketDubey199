@@ -80,10 +80,6 @@ I believe good software is built the **traditional way**:
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=AniketDubey199&layout=compact&langs_count=8" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AniketDubey199&theme=tokyonight" />
-</p>
-
 ---
 
 ## 📫 Connect With Me
